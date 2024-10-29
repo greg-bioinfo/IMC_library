@@ -1,1 +1,1 @@
-# IMC_library
+# Imaging Mass Cytometry Analysis
